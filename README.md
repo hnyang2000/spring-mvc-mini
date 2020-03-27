@@ -1,5 +1,15 @@
  > 我叫Jerry, 本科毕业于2009年，而后开发和维护[Nokia NetAct](http://networks.nokia.com/portfolio/solutions/netact)系统至2016年7月。
 
+
+
+二：I will continue handle the mapping from report to feed files, create jira of no access to move jira to next sprint
+三：make the updates to fit the test file,the mapping from report to feed files
+四：test 660 file which oracle team provide, handle the mapping from report to feed
+五：finish the rest mapping work
+
+
+
+
  > 我于2016年8月8日起开始在，USC 美国南加州大学攻读 计算机科学 硕士学位。
  
  > My Linkedin: (https://www.linkedin.com/in/hot13399).
